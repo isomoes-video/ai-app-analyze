@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "news-aggregator-skill": {
+      "source": "cclank/news-aggregator-skill",
+      "sourceType": "github",
+      "computedHash": "cac4f95f64a20e9fc9f1bffe466ee562ebcc22bdbf128b2a2ce9dd01e298a4bd"
+    }
+  }
+}
